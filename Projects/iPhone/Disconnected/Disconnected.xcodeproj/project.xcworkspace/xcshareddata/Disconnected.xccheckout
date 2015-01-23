@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>645F1A7F-CB6B-4AF1-83EA-13A042C0341C</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Disconnected</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>D2B8222E58C02E6A51E9EB230C8A2EDB56E5865E</key>
+		<string>https://github.com/glcoakley/Hour-05.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Projects/iPhone/Disconnected/Disconnected.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>D2B8222E58C02E6A51E9EB230C8A2EDB56E5865E</key>
+		<string>../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/glcoakley/Hour-05.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>D2B8222E58C02E6A51E9EB230C8A2EDB56E5865E</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>D2B8222E58C02E6A51E9EB230C8A2EDB56E5865E</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Hour%2005</string>
+		</dict>
+	</array>
+</dict>
+</plist>
